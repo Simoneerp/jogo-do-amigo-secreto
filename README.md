@@ -9,7 +9,7 @@
 
 ![adicionar](https://github.com/user-attachments/assets/884aeae5-deda-4eda-b7bc-9ed93fa6b452)
 
-<li>Validar entrada: O app alerta se o campo estiver vazio com a mensagem “Por favor, insira um nome”.</li>
+<li>Validar entrada: Ocorre um alerta com a mensagem “Adicione um nome para fazer o sorteio” caso o campo esteja vazio.</li>
 
 ![validação](https://github.com/user-attachments/assets/1e3d3482-52a3-4a0d-8130-d441d8a5440d)
 
@@ -17,11 +17,11 @@
 
 ![listanomesadicionados](https://github.com/user-attachments/assets/d1aa1e3a-f775-4978-a69a-e72b527036ea)
 
-<li>Sortear amigo secreto: Seleciona aleatoriamente um nome da lista e mostra na tela.</li>
+<li>Sortear amigo: Seleciona aleatoriamente um nome da lista e mostra na tela.</li>
 
 ![sorteio](https://github.com/user-attachments/assets/db252c19-4ee7-423d-bba7-a6fe0a2a3a8b)
 
-<li>Reinicia o jogo: Limpa a lista e o resultado para começar novamente.</li>
+<li>Reiniciar o jogo: Limpa a lista e o resultado para começar novamente.</li>
 
 ![reiniciar](https://github.com/user-attachments/assets/6a6f413a-d8eb-4350-9bbf-a5b9a4123249)
 </ul>
