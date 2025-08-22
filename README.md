@@ -18,6 +18,7 @@
 ![listanomesadicionados](https://github.com/user-attachments/assets/d1aa1e3a-f775-4978-a69a-e72b527036ea)
 
 <li>Sortear amigo secreto: Seleciona aleatoriamente um nome da lista e mostra na tela.</li>
+
 ![sorteio](https://github.com/user-attachments/assets/db252c19-4ee7-423d-bba7-a6fe0a2a3a8b)
 
 <li>Reinicia o jogo: Limpa a lista e o resultado para começar novamente.</li>
